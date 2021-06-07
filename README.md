@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @1Haroon
+- 👀 I’m interested in ML annd AI but now I want to entering programming feild with web development
+- 🌱 I’m currently learning Python
